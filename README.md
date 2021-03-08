@@ -1,0 +1,1 @@
+# Task7.1-Automation-of-Hadoop-Datanode-Using-LVM-
